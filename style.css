@@ -96,13 +96,13 @@ nav a {
     padding-right: 10px;
 }
 
-/* .box:hover { 
+.box:hover { 
     transform: scale(1.5);
 }
 .box-uno {
     background-color: lightpink;
     transition: 2s;
-} */
+}
 section img {
     display: flex;
     height: 40px;
