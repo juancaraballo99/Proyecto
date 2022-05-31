@@ -1,0 +1,111 @@
+header {
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    background-color: #D1C4E9;
+    align-items: center;
+    padding: 100px;
+    border-bottom: 2px solid violet;
+}
+
+
+
+.text-container p{
+    text-align: center;
+    background-color: #D1C4E9;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 1120px ;
+    border: 2px solid violet;
+
+
+}
+
+.autor {
+    text-align: left;
+    background-color: #D1C4E9;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 1120px;
+    border: 1px solid violet;
+
+}
+
+.dueña-imagen {
+     display: flex;
+     justify-content: center;
+     height: 450px;
+     width: 50%;
+     margin-left: 1000px;
+     margin-top: -155px;
+     margin-bottom: 40px;
+
+ }
+
+ .item-container {
+     display: flex;
+     background-color: #E1BEE7;
+     padding: 3px;
+     overflow: hidden ;
+     border: 2px solid violet;
+     justify-content: space-around   
+ }
+
+ .item1 {
+     display: flex;
+     height: 300px;
+     width: 300px;
+ }
+
+ .item2 {
+    display: flex;
+    height: 300px;
+    width: 300px;
+}
+
+.item3 {
+    display: flex;
+    height: 300px;
+    width: px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #E8DAEF;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height:250px;
+    border: 3px solid violet;
+
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+/* .box:hover { 
+    transform: scale(1.5);
+}
+.box-uno {
+    background-color: lightpink;
+    transition: 2s;
+} */
+section img {
+    display: flex;
+    height: 40px;
+    margin-top: 10px;
+}
+ 
